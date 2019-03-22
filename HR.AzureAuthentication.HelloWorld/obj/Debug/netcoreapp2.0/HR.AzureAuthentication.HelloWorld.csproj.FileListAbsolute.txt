@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\bin\Debug\netcoreapp2.0\HR.AzureAuthentication.HelloWorld.deps.json
+C:\Users\user\Desktop\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\bin\Debug\netcoreapp2.0\HR.AzureAuthentication.HelloWorld.runtimeconfig.json
+C:\Users\user\Desktop\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\bin\Debug\netcoreapp2.0\HR.AzureAuthentication.HelloWorld.runtimeconfig.dev.json
+C:\Users\user\Desktop\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\bin\Debug\netcoreapp2.0\HR.AzureAuthentication.HelloWorld.dll
+C:\Users\user\Desktop\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\bin\Debug\netcoreapp2.0\HR.AzureAuthentication.HelloWorld.pdb
+C:\Users\user\Desktop\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\obj\Debug\netcoreapp2.0\HR.AzureAuthentication.HelloWorld.csprojAssemblyReference.cache
+C:\Users\user\Desktop\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\obj\Debug\netcoreapp2.0\HR.AzureAuthentication.HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\user\Desktop\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\obj\Debug\netcoreapp2.0\HR.AzureAuthentication.HelloWorld.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\obj\Debug\netcoreapp2.0\HR.AzureAuthentication.HelloWorld.AssemblyInfo.cs
+C:\Users\user\Desktop\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\obj\Debug\netcoreapp2.0\HR.AzureAuthentication.HelloWorld.dll
+C:\Users\user\Desktop\HR.AzureAuthentication.Solution\HR.AzureAuthentication.HelloWorld\obj\Debug\netcoreapp2.0\HR.AzureAuthentication.HelloWorld.pdb
